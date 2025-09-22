@@ -23,7 +23,7 @@ A web based **Inventory Management System** built using **PHP Native without a f
     <img width="1349" height="635" alt="B KELUAR" src="https://github.com/user-attachments/assets/11252cec-68da-4e10-9620-f84ca1748b22" />
 
 ## **🛠️ Technologies Used**
-  - PHP Native.  
+  - PHP Native (no framework)  
   - MySQL (Port 3306) for database
   - PHP version: 8.0.28  
   - phpMyAdmin for database management  
